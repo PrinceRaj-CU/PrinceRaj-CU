@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-wine-beta.vercel.app/](https://my-portfolio-wine-beta.vercel.app/)
-
 - 💬 Ask me about **Html5, Css3, JavaScript, react, redux, mongodb, node, express**
 
 - 📫 How to reach me **prince1209kks@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-wine-beta.vercel.app/](https://my-portfolio-wine-beta.vercel.app/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1305IesXFTXNcn5L-U9mH4qVYVkCKOpWu/view?usp=sharing](https://drive.google.com/file/d/1305IesXFTXNcn5L-U9mH4qVYVkCKOpWu/view?usp=sharing)
 
