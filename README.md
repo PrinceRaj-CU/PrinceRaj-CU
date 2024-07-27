@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-wine-beta.vercel.app/](https://my-portfolio-wine-beta.vercel.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1305IesXFTXNcn5L-U9mH4qVYVkCKOpWu/view?usp=sharing](https://drive.google.com/file/d/1305IesXFTXNcn5L-U9mH4qVYVkCKOpWu/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1305IesXFTXNcn5L-U9mH4qVYVkCKOpWu/view?usp=sharing](https://drive.google.com/file/d/1305IesXFTXNcn5L-U9mH4qVYVkCKOpWu/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-raj-4bb513211) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/princer51250177) 
